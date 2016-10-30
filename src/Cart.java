@@ -2,7 +2,7 @@ import java.util.Date;
 
 public class Cart {
     private Order order;
-    private Integer orderId;
+    private Long orderId;
     private UserAccount user;
 
 
