@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e269dd02-c63b-4e97-ad1e-9047ff3c3152" name="Default" comment="">
+    <list default="true" id="e269dd02-c63b-4e97-ad1e-9047ff3c3152" name="Default" comment="new version">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/Cart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/Category.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/Delivery.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/FilterUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/Item.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/Order.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/OrderStatus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/SortedUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/StoreRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ProjectEStore/UserAccount.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Category.java" afterPath="$PROJECT_DIR$/src/Category.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Delivery.java" afterPath="$PROJECT_DIR$/src/Delivery.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Item.java" afterPath="$PROJECT_DIR$/src/Item.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Order.java" afterPath="$PROJECT_DIR$/src/Order.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StoreRunner.java" afterPath="$PROJECT_DIR$/src/StoreRunner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UserAccount.java" afterPath="$PROJECT_DIR$/src/UserAccount.java" />
     </list>
     <ignored path="ProjectEStore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -702,7 +706,7 @@
       <updated>1476730684213</updated>
       <workItem from="1476730685499" duration="4017000" />
       <workItem from="1477814160920" duration="769000" />
-      <workItem from="1477830593158" duration="4763000" />
+      <workItem from="1477830593158" duration="4946000" />
     </task>
     <task id="LOCAL-00001" summary="new version">
       <created>1477833358334</created>
@@ -725,15 +729,22 @@
       <option name="project" value="LOCAL" />
       <updated>1477834095695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new version">
+      <created>1477835369140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1477835369140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9549000" />
+    <option name="totallyTimeSpent" value="9732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -747,7 +758,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
