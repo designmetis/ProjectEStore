@@ -1,11 +1,6 @@
 
 public class UserAccount {
-    private String username;
-    private String password;
-
-    public UserAccount() {
-
-    }
-
-
+    private String userName;
+    private Integer password;
+    private Delivery delivery;
 }
